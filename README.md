@@ -1,13 +1,3 @@
-
-
-### Hi there 👋
-
-English
-
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: He/him
-
-
 ### Olá, eu sou o Luc4sMaia 👋
 
 Português
