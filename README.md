@@ -1,16 +1,16 @@
+
+
 ### Hi there 👋
 
-<!--
-**Luc4sMaia/Luc4sMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+English
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java
+- 😄 Pronouns: He/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Olá, eu sou Luc4sMaia 👋
+
+Português
+
+- 🌱 Estudando Java
+- 😄 Pronome: Ele/dele
